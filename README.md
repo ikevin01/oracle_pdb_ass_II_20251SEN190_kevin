@@ -56,9 +56,6 @@ This report documents the creation, configuration, and deletion of Oracle Plugga
 ## 4. Academic Integrity Statement
 I hereby declare that all commands were executed individually by me, and all screenshots submitted are original and unshared.
 
----
 
-## Submission Details Block
-Repository Link: https://github.com/[YourGitHubUsername]/oracle_pdb_ass_II_20251SEN190_kevin
 PDB Name Created: ke_pdb_20251SEN190
 Issues Encountered: No
