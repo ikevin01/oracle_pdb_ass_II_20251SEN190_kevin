@@ -23,27 +23,28 @@ This report documents the creation, configuration, and deletion of Oracle Plugga
 * Created user `kevin_plsqlauca_20251SEN190` with DBA privileges.
 
 **Screenshots:**
-* `screenshots/pdb_creation/pdb_open.png`
-* `screenshots/pdb_creation/user_created.png`
+
+### Task 1: Permanent PDB & User Setup
+![PDB Creation and Open State](Screen Shot 1.png)
+![User Creation Verification](Screen Shot 2 .png)
 
 ---
+**Screenshots:**
 
-### Task 2: Temporary PDB Lifecycle Management
+### Task 2: Temporary PDB Lifecycle Management &  Database & Container Monitoring
 * Created temporary PDB `ke_to_delete_pdb_20251SEN190`.
 * Verified creation via `SHOW PDBS;`.
 * Closed and dropped `ke_to_delete_pdb_20251SEN190` along with its datafiles.
 
-**Screenshots:**
-* `screenshots/pdb_deletion/temp_pdb_created.png`
-* `screenshots/pdb_deletion/temp_pdb_deleted.png`
+### Task 2 & 3: Temporary PDB Lifecycle Management
+![Temporary PDB Created](Screen Shot 3 .png)
+![Temporary PDB Deleted](Screen Shot 4.png)
 
 ---
 
 ### Task 3: Database & Container Monitoring
 * Queried system catalog views (`v$instance`, `v$pdbs`) to verify database health and container statuses.
 
-**Screenshots:**
-* `screenshots/oem_dashboard/oem_dashboard.png`
 
 ---
 
