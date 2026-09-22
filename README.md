@@ -25,8 +25,8 @@ This report documents the creation, configuration, and deletion of Oracle Plugga
 **Screenshots:**
 
 ### Task 1: Permanent PDB & User Setup
-![PDB Creation and Open State](Screen Shot 1.png)
-![User Creation Verification](Screen Shot 2 .png)
+![PDB Creation and Open State](<Screen Shot 1.png>)
+![User Creation Verification](<Screen Shot 2 .png>)
 
 ---
 **Screenshots:**
@@ -37,8 +37,8 @@ This report documents the creation, configuration, and deletion of Oracle Plugga
 * Closed and dropped `ke_to_delete_pdb_20251SEN190` along with its datafiles.
 
 ### Task 2 & 3: Temporary PDB Lifecycle Management
-![Temporary PDB Created](Screen Shot 3 .png)
-![Temporary PDB Deleted](Screen Shot 4.png)
+![Temporary PDB Created](<Screen Shot 3 .png>)
+![Temporary PDB Deleted](<Screen Shot 4.png>)
 
 ---
 
